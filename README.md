@@ -1,21 +1,60 @@
-# 💫 About Me:
-🌟 CSE Student by day, Debugging Ninja by night (sometimes the bugs win).<br>🧠 Researching Control Flow Graphs—basically teaching machines how to untangle messy code faster than I can.<br>🤖 Developed Groot & Rocket AI Chatbot, blending personality and technology (Guardians would approve).<br>🚀 Created Synthia, a synthetic data platform with NVIDIA AI Workbench—because real data is so passé.<br>🛠️ Designed Vivlr, an event management database for seamless campus fun. If it’s not in Vivlr, it’s not happening.<br>🎲 Advanced PSO algorithms with Reinforcement Learning and Quantum Computing—solving optimization problems like a pro.<br>💡 My motto: “Life is just a loop; keep optimizing.”
-
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dhanush04-eti&theme=date_night&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dhanush04-eti&theme=date_night&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush04-eti&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dhanush04-eti&limit=5&theme=date_night&combine_all_yearly_contributions=true)
+# 🌟 Hey there, I'm Dhanush Eti!  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines=CSE+Student+%40+NIT+Warangal;AI+%26+FinTech+Enthusiast;Debugging+Life+One+Bug+at+a+Time;Always+Optimizing!+🚀" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dhanush04-eti&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me:
+- 🌟 **CSE Student**—always learning, building, and improving.  
+- 🧠 Researching **Control Flow Graphs**—teaching machines to make sense of messy code.  
+- 🤖 Built **Groot & Rocket AI Chatbot**—fusing personality with technology (yes, Guardians would approve!).  
+- 🚀 Developed **Synthia**, a cutting-edge synthetic data platform with **NVIDIA AI Workbench**.  
+- 🛠️ Designed **Vivlr**, an event management database for seamless campus fun.  
+- 🎲 Enhanced **PSO algorithms** with **Quantum Computing** and **Reinforcement Learning**—because optimization problems deserve elegance.  
+- 💡 My motto: *"Life is a loop; keep optimizing!"*  
+
+---
+
+## 💻 Tech Stack:  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,react,nextjs,docker,mysql,mongodb,gcp,vercel,tailwind,git" alt="Tech Stack" /><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,numpy,pandas,solidity,flask,heroku,bootstrap,postman" alt="More Tools" />
+</p>
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanush04-eti&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush04-eti&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush04-eti&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### ✍️ Random Dev Quote:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+---
+
+### 🔝 Top Contributed Repo:
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=dhanush04-eti&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Repositories" />
+</p>
+
+---
+
+### 🖱️ Visitor Count:
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=dhanush04-eti&label=Profile%20Views&color=1&icon=2&pretty=true" alt="Visitor Count" />
+</p>
+
+---
+
+## 🎯 Fun Fact:
+*"Sometimes debugging is like being a detective in a crime movie where you are also the murderer."* 🔍  
+---
+
