@@ -1,7 +1,7 @@
 <h1 align="center">Hola, I'm Dhanush Eti</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" alt="Coding GIF" width="500px" />
+  <img src="[https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif](https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif?cid=790b7611ivhcgu5884vgxpm5vdz68ym6cp71j6qkdju8u2xc&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="Coding GIF" width="500px" />
 </p>
 
 <p align="center">
