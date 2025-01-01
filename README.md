@@ -1,6 +1,11 @@
-# 🌟 Hey there, I'm Dhanush Eti!  
+<h1 align="center">Hola, I'm Dhanush Eti</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines=CSE+Student+%40+NIT+Warangal;AI+%26+FinTech+Enthusiast;Debugging+Life+One+Bug+at+a+Time;Always+Optimizing!+🚀" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" alt="Coding GIF" width="500px" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Hi,+I+am+Dhanush+Eti!;CSE+Student+%40+NIT+Warangal;AI+and+FinTech+Enthusiast;Debugging+Life+One+Bug+at+a+Time;Always+Optimizing!+🚀" alt="Typing Animation" />
 </p>
 
 ---
@@ -8,15 +13,15 @@
 ## 💫 About Me:
 - 🌟 **CSE Student**—always learning, building, and improving.  
 - 🧠 Researching **Control Flow Graphs**—teaching machines to make sense of messy code.  
-- 🤖 Built **Groot & Rocket AI Chatbot**—fusing personality with technology (yes, Guardians would approve!).  
+- 🤖 Built **Groot & Rocket AI Chatbot**—fusing personality with technology.  
 - 🚀 Developed **Synthia**, a cutting-edge synthetic data platform with **NVIDIA AI Workbench**.  
-- 🛠️ Designed **Vivlr**, an event management database for seamless campus fun.  
-- 🎲 Enhanced **PSO algorithms** with **Quantum Computing** and **Reinforcement Learning**—because optimization problems deserve elegance.  
+- 🛠️ Designed **Vivlr**, an event management platform.  
+- 🎲 Enhanced **PSO algorithms** with **Quantum Computing** and **Reinforcement Learning**.  
 - 💡 My motto: *"Life is a loop; keep optimizing!"*  
 
 ---
 
-## 💻 Tech Stack:  
+## 💻 Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,react,nextjs,docker,mysql,mongodb,gcp,vercel,tailwind,git" alt="Tech Stack" /><br/>
   <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,numpy,pandas,solidity,flask,heroku,bootstrap,postman" alt="More Tools" />
@@ -56,5 +61,3 @@
 
 ## 🎯 Fun Fact:
 *"Sometimes debugging is like being a detective in a crime movie where you are also the murderer."* 🔍  
----
-
