@@ -1,11 +1,11 @@
 <h1 align="center">Hola, I'm Dhanush Eti</h1>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif](https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif?cid=790b7611ivhcgu5884vgxpm5vdz68ym6cp71j6qkdju8u2xc&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="Coding GIF" width="500px" />
+  <img src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif?cid=790b7611ivhcgu5884vgxpm5vdz68ym6cp71j6qkdju8u2xc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" width="500px" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Hi,+I+am+Dhanush+Eti!;CSE+Student+%40+NIT+Warangal;AI+and+FinTech+Enthusiast;Debugging+Life+One+Bug+at+a+Time;Always+Optimizing!+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=nthusiast;Always+Optimizing!+🚀" alt="Typing Animation" />
 </p>
 
 ---
