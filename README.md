@@ -17,8 +17,6 @@
 - 🎲 Enhanced **PSO algorithms** with **Quantum Computing** and **Reinforcement Learning**.  
 - 💡 My motto: *"Life is a loop; keep optimizing!"*  
 
----
-
 ## 💻 Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,react,nextjs,docker,mysql,mongodb,gcp,vercel,tailwind,git" alt="Tech Stack" /><br/>
