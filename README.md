@@ -9,10 +9,10 @@
   <img src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif?cid=790b7611ivhcgu5884vgxpm5vdz68ym6cp71j6qkdju8u2xc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" width="300px" align="right" />
 </p>
 
-- 🌟 **CSE Student**—always learning, building, and improving.  
+- 🌟**Always Learning, Building, and Improving**.  
 - 🧠 Researching **Control Flow Graphs**—teaching machines to make sense of messy code.  
 - 🤖 Built **Groot & Rocket AI Chatbot**—fusing personality with technology.  
-- 🚀 Developed **Synthia**, a cutting-edge synthetic data platform with **NVIDIA AI Workbench**.  
+- 🚀 Developed **Synthia**, a synthetic data generating platform with **NVIDIA AI Workbench**.  
 - 🛠️ Designed **Vivlr**, an event management platform.  
 - 🎲 Enhanced **PSO algorithms** with **Quantum Computing** and **Reinforcement Learning**.  
 - 💡 My motto: *"Life is a loop; keep optimizing!"*  
