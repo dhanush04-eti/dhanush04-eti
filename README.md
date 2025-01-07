@@ -1,7 +1,7 @@
 <h1 align="center">Hola, I'm Dhanush Eti</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=CSE+Student+%40+NIT+Warangal;Always+Optimizing!+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=🚀" alt="Typing Animation" />
 </p>
 
 ## 💫 About Me:
